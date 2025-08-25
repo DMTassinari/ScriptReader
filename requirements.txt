@@ -1,0 +1,12 @@
+# TTS Web Application Requirements
+# Multi-service version with male/female voices
+# Install with: pip install -r requirements.txt
+
+Flask==3.0.0
+gtts==2.5.0
+requests==2.31.0
+
+# Optional - for better audio conversion and system voices
+# Uncomment these if you want additional features:
+# pyttsx3==2.90
+# pydub==0.25.1
